@@ -38,7 +38,7 @@ class _ImagePickerScreenState extends State<ImagePickerScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: const Text("ImagePicker"),
+          title: const Text("ImagePick"),
         ),
         body: Padding(
           padding: const EdgeInsets.all(10.0),
